@@ -1,5 +1,4 @@
-### Hi there 👋
-This is Anas Bin Aqeel
+### Hi there 👋, This is Anas Bin Aqeel
 
 Well
 - 👯 I’m looking to collaborate on .ASP.NET development
@@ -25,3 +24,13 @@ Well
    <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title="asp" alt="asp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+<br>
+</br>
+<br>
+</br>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasaqeeel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+</br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anasaqeeel&theme=dark)](https://git.io/streak-stats)
