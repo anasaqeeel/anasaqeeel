@@ -35,3 +35,5 @@ Well
 <br>
 </br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anasaqeeel&theme=dark)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/anasaqeeel=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
