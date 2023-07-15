@@ -1,7 +1,7 @@
 ### Hi there 👋, This is Anas Bin Aqeel
 
 Well
-- 👯 I’m looking to collaborate on .ASP.NET development
+-  Blockchain Enthusiast | Solidity | Typescript | C++/C | C# | HTML | CSS | JAVASCRIPT | ASP.NET | Freelancer | Open to Opportunities
 - 🤔 I’m looking for help with front end development
 - 📫 How to reach me: aqeelanas352@gmail.com
 
