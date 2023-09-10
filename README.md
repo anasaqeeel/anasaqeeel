@@ -2,8 +2,7 @@
 
 Well
 -  Blockchain Enthusiast | Solidity | Typescript | C++/C | C# | HTML | CSS | JAVASCRIPT | ASP.NET | Freelancer | Open to Opportunities
-- 🤔 I’m looking for help with front end development
-- 📫 How to reach me: aqeelanas352@gmail.com
+- 📫 Reach me: aqeelanas352@gmail.com
 
 ### :hammer_and_wrench: Languages and Tools :
 
